@@ -11,3 +11,4 @@ trying to upload a workbook and resources from local laptop
 3.	Using the ‘SUM’ function, show me the commission total in cell ‘P10’
 4.	Using the ‘AVERAGE’ function, show me the average commission in cell ‘P11’
 
+1. <img width="851" height="490" alt="image" src="https://github.com/user-attachments/assets/820252dc-fa4f-4f05-ad15-a0d06a9beabe" />
