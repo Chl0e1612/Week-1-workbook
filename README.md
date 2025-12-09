@@ -16,4 +16,6 @@ trying to upload a workbook and resources from local laptop
 - go to insert and table (make sure the tables have headers)
 - click ok
 
-  2. 
+here is the raw excel sheet:
+"C:\Users\chloe\OneDrive\Desktop\IT Bootcamp\retail_sales_dataset_Master_Day2.xlsx"
+
